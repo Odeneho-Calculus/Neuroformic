@@ -1,0 +1,8 @@
+{
+  "default_browser": "edge",
+  "headless_mode": false,
+  "screenshot_dir": "screenshots",
+  "ai_model": "gemini",
+  "api_key": "",
+  "confidence_threshold": 80
+}

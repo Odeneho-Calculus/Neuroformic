@@ -1,0 +1,12 @@
+selenium==4.15.2
+playwright==1.40.0
+pytesseract==0.3.10
+pillow==10.1.0
+spacy==3.7.2
+transformers==4.35.2
+pyqt5==5.15.10
+python-dotenv==1.0.0
+requests==2.31.0
+opencv-python==4.8.1.78
+2captcha-python==1.2.0
+webdriver-manager==4.0.1

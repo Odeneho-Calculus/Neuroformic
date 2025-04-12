@@ -1,0 +1,78 @@
+2025-04-12 18:01:47,122 - neuroformic - INFO - Starting Neuroformic application
+2025-04-12 18:01:47,122 - neuroformic - INFO - Created screenshot directory: screenshots
+2025-04-12 18:02:22,332 - neuroformic - INFO - Starting Selenium session with chrome browser
+2025-04-12 18:02:32,625 - neuroformic - ERROR - Error in worker thread: [WinError 193] %1 is not a valid Win32 application
+2025-04-12 18:07:45,546 - neuroformic - INFO - Starting Neuroformic application
+2025-04-12 18:08:03,327 - neuroformic - INFO - Starting Selenium session with chrome browser
+2025-04-12 18:08:04,683 - neuroformic - ERROR - Error in worker thread: [WinError 193] %1 is not a valid Win32 application
+2025-04-12 18:09:24,561 - neuroformic - INFO - Starting Selenium session with chrome browser
+2025-04-12 18:09:25,717 - neuroformic - ERROR - Error in worker thread: [WinError 193] %1 is not a valid Win32 application
+2025-04-12 18:16:16,897 - neuroformic - INFO - Starting Neuroformic application
+2025-04-12 18:16:47,845 - neuroformic - INFO - Starting Selenium session with chrome browser
+2025-04-12 18:16:48,934 - neuroformic - ERROR - Error in worker thread: [WinError 193] %1 is not a valid Win32 application
+2025-04-12 18:34:48,423 - neuroformic - INFO - Starting Neuroformic application
+2025-04-12 18:35:02,890 - neuroformic - INFO - Starting Selenium session with chrome browser
+2025-04-12 18:35:04,005 - neuroformic - ERROR - Error in worker thread: [WinError 193] %1 is not a valid Win32 application
+2025-04-12 18:39:05,073 - neuroformic - INFO - Starting Neuroformic application
+2025-04-12 18:39:16,027 - neuroformic - INFO - Starting Selenium session with chrome browser
+2025-04-12 18:39:17,315 - neuroformic - ERROR - Error in worker thread: [WinError 193] %1 is not a valid Win32 application
+2025-04-12 18:39:55,052 - neuroformic - INFO - Starting Neuroformic application
+2025-04-12 18:40:03,677 - neuroformic - INFO - Starting Selenium session with edge browser
+2025-04-12 18:40:24,636 - neuroformic - INFO - Selenium session started successfully
+2025-04-12 18:40:24,637 - neuroformic - INFO - Navigating to https://portal.umat.edu.gh/students/Assessment/Lecturers
+2025-04-12 18:40:30,340 - neuroformic - INFO - Successfully navigated to https://portal.umat.edu.gh/students/Assessment/Lecturers
+2025-04-12 18:40:30,340 - neuroformic - INFO - Attempting to bypass login with cookies for portal.umat.edu.gh
+2025-04-12 18:40:30,341 - neuroformic - WARNING - No saved cookies found for portal.umat.edu.gh
+2025-04-12 18:40:30,341 - neuroformic - WARNING - No saved cookies found for portal.umat.edu.gh
+2025-04-12 18:40:30,342 - neuroformic - INFO - Attempting to log in to https://portal.umat.edu.gh/students/Assessment/Lecturers
+2025-04-12 18:40:32,509 - neuroformic - INFO - Detecting login form elements
+2025-04-12 18:40:32,553 - neuroformic - INFO - Login form detected successfully
+2025-04-12 18:40:38,145 - neuroformic - INFO - Cookies saved for portal.umat.edu.gh
+2025-04-12 18:40:38,268 - neuroformic - INFO - Login successful
+2025-04-12 18:40:38,272 - neuroformic - INFO - Session data saved to sessions/portal.umat.edu.gh_20250412_184038.json
+2025-04-12 18:40:40,425 - neuroformic - INFO - Selenium session closed
+2025-04-12 18:41:32,175 - neuroformic - INFO - Starting Selenium session with edge browser
+2025-04-12 18:41:37,726 - neuroformic - INFO - Selenium session started successfully
+2025-04-12 18:41:37,727 - neuroformic - INFO - Navigating to https://portal.umat.edu.gh/students/Assessment/Lecturers
+2025-04-12 18:41:42,912 - neuroformic - INFO - Successfully navigated to https://portal.umat.edu.gh/students/Assessment/Lecturers
+2025-04-12 18:41:42,913 - neuroformic - INFO - Attempting to bypass login with cookies for portal.umat.edu.gh
+2025-04-12 18:41:42,924 - neuroformic - INFO - Cookies loaded for portal.umat.edu.gh
+2025-04-12 18:41:45,926 - neuroformic - INFO - Login bypass with cookies successful
+2025-04-12 18:41:45,928 - neuroformic - INFO - Session data saved to sessions/portal.umat.edu.gh_20250412_184145.json
+2025-04-12 18:41:48,083 - neuroformic - INFO - Selenium session closed
+2025-04-12 18:42:54,659 - neuroformic - INFO - Starting Neuroformic application
+2025-04-12 18:42:58,929 - neuroformic - INFO - Starting Selenium session with edge browser
+2025-04-12 18:43:04,351 - neuroformic - INFO - Selenium session started successfully
+2025-04-12 18:43:04,351 - neuroformic - INFO - Navigating to https://portal.umat.edu.gh/students/Assessment/Lecturers
+2025-04-12 18:43:10,078 - neuroformic - INFO - Successfully navigated to https://portal.umat.edu.gh/students/Assessment/Lecturers
+2025-04-12 18:43:10,078 - neuroformic - INFO - Attempting to bypass login with cookies for portal.umat.edu.gh
+2025-04-12 18:43:10,080 - neuroformic - INFO - Cookies loaded for portal.umat.edu.gh
+2025-04-12 18:43:13,832 - neuroformic - INFO - Login bypass with cookies successful
+2025-04-12 18:43:13,834 - neuroformic - INFO - Session data saved to sessions/portal.umat.edu.gh_20250412_184313.json
+2025-04-12 18:43:16,027 - neuroformic - INFO - Selenium session closed
+2025-04-12 18:46:48,423 - neuroformic - INFO - Starting Selenium session with edge browser
+2025-04-12 18:46:53,820 - neuroformic - INFO - Selenium session started successfully
+2025-04-12 18:46:53,821 - neuroformic - INFO - Navigating to https://portal.umat.edu.gh/students/Assessment/Lecturers
+2025-04-12 18:46:57,340 - neuroformic - INFO - Successfully navigated to https://portal.umat.edu.gh/students/Assessment/Lecturers
+2025-04-12 18:46:57,340 - neuroformic - INFO - Attempting to bypass login with cookies for portal.umat.edu.gh
+2025-04-12 18:46:57,341 - neuroformic - INFO - Cookies loaded for portal.umat.edu.gh
+2025-04-12 18:46:59,853 - neuroformic - INFO - Login bypass with cookies successful
+2025-04-12 18:46:59,856 - neuroformic - INFO - Session data saved to sessions/portal.umat.edu.gh_20250412_184659.json
+2025-04-12 18:47:02,014 - neuroformic - INFO - Selenium session closed
+2025-04-12 19:00:09,686 - neuroformic - INFO - Starting Selenium session with edge browser
+2025-04-12 19:00:15,154 - neuroformic - INFO - Selenium session started successfully
+2025-04-12 19:00:15,154 - neuroformic - INFO - Navigating to https://www.solve-mcqs.com/2024/11/english-grammar-25-mcqs-online-quiz_17.html
+2025-04-12 19:00:21,139 - neuroformic - INFO - Successfully navigated to https://www.solve-mcqs.com/2024/11/english-grammar-25-mcqs-online-quiz_17.html
+2025-04-12 19:00:21,140 - neuroformic - INFO - Attempting to bypass login with cookies for www.solve-mcqs.com
+2025-04-12 19:00:21,140 - neuroformic - WARNING - No saved cookies found for www.solve-mcqs.com
+2025-04-12 19:00:21,140 - neuroformic - WARNING - No saved cookies found for www.solve-mcqs.com
+2025-04-12 19:00:21,141 - neuroformic - INFO - Attempting to log in to https://www.solve-mcqs.com/2024/11/english-grammar-25-mcqs-online-quiz_17.html
+2025-04-12 19:00:24,361 - neuroformic - INFO - Detecting login form elements
+2025-04-12 19:00:24,440 - neuroformic - INFO - Login form detected successfully
+2025-04-12 19:00:34,452 - neuroformic - ERROR - Login failed: Message: 
+
+2025-04-12 19:00:34,452 - neuroformic - ERROR - Authentication failed
+2025-04-12 19:00:34,457 - neuroformic - INFO - Session data saved to sessions/www.solve-mcqs.com_20250412_190034.json
+2025-04-12 19:00:36,633 - neuroformic - INFO - Selenium session closed
+2025-04-12 19:05:26,075 - neuroformic - INFO - Starting Neuroformic application
+2025-04-12 19:21:53,500 - neuroformic - INFO - Starting Neuroformic application
